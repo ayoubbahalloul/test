@@ -1,4 +1,4 @@
-let price : any = 4
+let price : any = 8
 
 const priceTotal = price * 2
 
